@@ -8,10 +8,12 @@ body{
 }
 
 #container{
+    background: url("../imagenes/1.jpg");
     width: 70%;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;   
+    color: tomato;
 }
 
 #post{
@@ -19,6 +21,7 @@ body{
 }
 
 #cabecera{
+    color: rgb(0, 0, 0);
     background-color: aqua;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
